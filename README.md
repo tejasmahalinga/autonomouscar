@@ -1,4 +1,4 @@
-Implementation of Computer Vision-Based Obstacle Avoidance and Self-Steering System for Autonomous Vehicles
+<b>Implementation of Computer Vision-Based Obstacle Avoidance and Self-Steering System for Autonomous Vehicles</b>
 
 This is the source code of my Final year project of my Engineering.
 
