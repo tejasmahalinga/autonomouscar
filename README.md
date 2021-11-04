@@ -10,5 +10,7 @@ Below is the link to the demo video of the prototype of our Project.
 https://drive.google.com/file/d/1MIwWrlhnlzFcSp46CwCCwYe7wEf_U3VF/view?usp=drivesdk
 </code>
 <img src="./snap 1.jpeg" alt="pic1">
+<img src="./snap 2.jpeg" alt="pic2">
+<img src="./snap 3.jpeg" alt="pic3">
 
 
