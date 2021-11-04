@@ -1,6 +1,6 @@
 <b>Implementation of Computer Vision-Based Obstacle Avoidance and Self-Steering System for Autonomous Vehicles</b>
 
-This is the source code of my Final year project of my Engineering.
+This is the source code of our Final year project during Engineering.
 
 Refer the report available in the repository for detailed information.
 
