@@ -9,6 +9,6 @@ Below is the link to the demo video of the prototype of our Project.
 <code>
 https://drive.google.com/file/d/1MIwWrlhnlzFcSp46CwCCwYe7wEf_U3VF/view?usp=drivesdk
 </code>
-
+<img src="./snap 1.jpg" alt="pic1">
 
 
